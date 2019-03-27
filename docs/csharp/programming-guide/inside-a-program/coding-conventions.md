@@ -40,7 +40,9 @@ ms.assetid: f4f60de9-d49b-4fb6-bab1-20e19ea24710
   
 -   If continuation lines are not indented automatically, indent them one tab stop (four spaces).  
   
--   Add at least one blank line between method definitions and property definitions.  
+-   Add at least one blank line before and at least one blank line after each method definition.
+
+-   Add at least one blank line before and at least one blank line after each property definition.  
   
 -   Use parentheses to make clauses in an expression apparent, as shown in the following code.  
   
